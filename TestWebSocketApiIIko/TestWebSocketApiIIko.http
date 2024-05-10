@@ -1,0 +1,6 @@
+@TestWebSocketApiIIko_HostAddress = http://localhost:5265
+
+GET {{TestWebSocketApiIIko_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
